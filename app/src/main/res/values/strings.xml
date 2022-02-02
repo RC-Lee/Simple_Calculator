@@ -17,10 +17,10 @@
     <string name="btn_num0_text">0</string>
     <string name="btn_calculate_text">=</string>
     <string name="btn_divide_text">/</string>
-    <string name="btn_mode_text1">Standard</string>
-    <string name="btn_mode_text2">Advance - Scientific</string>
+    <string name="btn_mode_text1">standard</string>
+    <string name="btn_mode_text2">advance - scientific</string>
     <string name="btn_mod_text">%</string>
-    <string name="btn_pow_text">pow</string>
-    <string name="btn_max_text">max</string>
-    <string name="btn_min_text">min</string>
+    <string name="btn_pow_text">POW</string>
+    <string name="btn_max_text">MAX</string>
+    <string name="btn_min_text">MIN</string>
 </resources>
