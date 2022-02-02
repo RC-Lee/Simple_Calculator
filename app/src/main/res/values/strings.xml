@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">map524_a1</string>
+    <string name="project_header_text">Assignment 1</string>
+    <string name="btn_num1_text">1</string>
+    <string name="btn_num2_text">2</string>
+    <string name="btn_num3_text">3</string>
+    <string name="btn_num4_text">4</string>
+    <string name="btn_num5_text">5</string>
+    <string name="btn_plus_text">+</string>
+    <string name="btn_num6_text">6</string>
+    <string name="btn_minus_text">-</string>
+    <string name="btn_num7_text">7</string>
+    <string name="btn_num8_text">8</string>
+    <string name="btn_num9_text">9</string>
+    <string name="btn_multiply_text">*</string>
+    <string name="btn_clear_text">c</string>
+    <string name="btn_num0_text">0</string>
+    <string name="btn_calculate_text">=</string>
+    <string name="btn_divide_text">/</string>
+    <string name="btn_mode_text1">Standard</string>
+    <string name="btn_mode_text2">Advance - Scientific</string>
+    <string name="btn_mod_text">%</string>
+    <string name="btn_pow_text">pow</string>
+    <string name="btn_max_text">max</string>
+    <string name="btn_min_text">min</string>
 </resources>
